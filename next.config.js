@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const isProduction = false
+const isProduction = true
 
 const nextConfig = {
     output: 'export',
